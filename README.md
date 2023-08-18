@@ -1,4 +1,4 @@
-![image](https://github.com/kmounikanjali10/Recommendation-System/assets/89678374/1af23e19-869f-42b4-9cd7-e7d9451256d0)# Recommendation-System
+ #Recommendation-System
 A movie recommendation system is an application that suggests movies to users 
 based on their preferences and viewing history. The system uses machine 
 learning algorithms to analyze user data and provide personalized movie 

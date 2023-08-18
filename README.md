@@ -45,8 +45,5 @@ how similar two items are.
 
 The output value ranges from 0–1. 0 means no similarity, whereas 1 means 
 that both the items are 100% similar.
-
-![image](https://github.com/kmounikanjali10/Recommendation-System/assets/89678374/283013fc-5765-44fb-a50c-e938482a2afc)
-
-
 ![image](https://github.com/kmounikanjali10/Recommendation-System/assets/89678374/7ec677e3-4053-4f6e-88bb-ca06c952cfde)
+![image](https://github.com/kmounikanjali10/Recommendation-System/assets/89678374/283013fc-5765-44fb-a50c-e938482a2afc)

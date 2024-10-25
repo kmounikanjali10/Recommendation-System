@@ -1,4 +1,4 @@
- #Recommendation-System
+ # Recommendation-System Using Cosine Similarity
 A movie recommendation system is an application that suggests movies to users 
 based on their preferences and viewing history. The system uses machine 
 learning algorithms to analyze user data and provide personalized movie 
